@@ -2,7 +2,7 @@
 *.pyc
 *~
 __pycache__
-myvenv
+venv
 *.SQLITE3
 /static
 .DS_Store
